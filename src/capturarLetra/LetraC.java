@@ -20,7 +20,7 @@ public class LetraC {
 	
 	    for(int i = 0; i<=total; i++){
 	    	  if (soC[i] != null){
-	    		  System.out.println(soC[i] + i);
+	    		  System.out.println(soC[i]);
 	    	  }
 	    }
 	}
